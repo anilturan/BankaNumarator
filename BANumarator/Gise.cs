@@ -12,6 +12,9 @@ namespace BANumarator
         //Musteriyi (Yani musteriye ait olan numarayı) çağıran sınıf.
 
 
+
+
+
         // Singleton olarak tanımladığımız Sira sınıfının nesnesini burada donduruyoruz. 
         private Sira MusteriKuyruk
         {
